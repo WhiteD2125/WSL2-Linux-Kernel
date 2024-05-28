@@ -1,0 +1,18 @@
+{
+  "name": "wsl2-linux-kernel",
+  "version": "1.0.0",
+  "description": "The [WSL2-Linux-Kernel][wsl2-kernel] repo contains the kernel source code and configuration files for the [WSL2][about-wsl2] kernel.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kbuild": "^1.0.8"
+  }
+}
